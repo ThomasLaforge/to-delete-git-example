@@ -39,9 +39,10 @@ hr {
 
 .welcome-content {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-direction: row;
+  justify-content: space-around;
   align-items: center;
+  padding: 0 5rem;
   height: 100vh;
   background-color: #073C45;
 }
