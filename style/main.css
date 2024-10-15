@@ -54,11 +54,12 @@ hr {
 .welcome-title {
   font-size: 3.5rem;
   font-weight: 700;
+  padding: 2rem 0;
 }
 
 .welcome-button {
   margin-top: 1rem;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1.3rem;
   background-color: #D0FEFB;
   color: #073C45;
   border: none;
