@@ -60,9 +60,35 @@ hr {
 .welcome-button {
   margin-top: 1rem;
   padding: 0.5rem 1.3rem;
-  background-color: #D0FEFB;
+  background-color: #F5F5F5;
   color: #073C45;
   border: none;
   border-radius: 15px;
   cursor: pointer;
+}
+
+.info-section {
+  padding: 40px 20px;
+  background-color: #F5F5F5;
+  color: #04313a;
+  text-align: center;
+}
+
+.info-section h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #04313a;
+}
+
+.subtitle {
+  font-size: 14px;
+  margin-bottom: 30px;
+  color: #04313a;
+}
+
+.info-block {
+  text-align: left;
+  background-color: #EDEDED;
+  padding: 20px;
+  color: #063C45;
 }
